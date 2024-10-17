@@ -1,4 +1,4 @@
-import { FC } from "react";
+import React, { FC } from "react";
 import { StyleSheet, TouchableOpacity, ViewStyle } from "react-native";
 
 type LinkProps = {
